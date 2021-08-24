@@ -1,4 +1,4 @@
-Searches for a string inside a file in a folder and it's subdirectories
+Searches for a string inside each file in a folder and it's subdirectories
 
 usage:
 	- getstr <string>
